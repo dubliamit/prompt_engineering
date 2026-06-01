@@ -252,7 +252,67 @@ A particularly strong and memorable option is:
 It's simple, emotionally resonant, and naturally connects the customer with the brand's eco-friendly mission.
 
 ### 1.2 Iteration Documentation
+## 1. IoT Explanation for a 10-Year-Old
+
+| Version | Prompt | What Changed | Why This Improved the Output |
+|----------|---------|--------------|------------------------------|
+| V1 | Explain IoT | Basic request with no audience specified | Produced a generic technical explanation suitable for adults. |
+| V2 | Explain IoT as if explaining it to a 10-year-old | Specified the target audience | Simplified the language and made the explanation easier for children to understand. |
+| V3 | Explain IoT to a 10-year-old in a precise way using easy real-life examples | Added brevity and requested real-life examples | Produced a short, engaging explanation with relatable examples that a child could quickly grasp. |
+
+## 2. Job Offer Declination Email
+
+| Version | Prompt | What Changed | Why This Improved the Output |
+|----------|---------|--------------|------------------------------|
+| V1 | Explain IoT | Basic request with no audience specified | Produced a generic technical explanation suitable for adults. |
+| V2 | Explain IoT as if explaining it to a 10-year-old | Specified the target audience | Simplified the language and made the explanation easier for children to understand. |
+| V3 | Explain IoT to a 10-year-old in a precise way using easy real-life examples | Added brevity and requested real-life examples | Produced a short, engaging explanation with relatable examples that a child could quickly grasp. |
+
+
+## 3. Eco-Friendly Water Bottle Brand Tagline
+
+| Version | Prompt | What Changed | Why This Improved the Output |
+|----------|---------|--------------|------------------------------|
+| V1 | Generate a creative marketing tagline for a new water bottle brand | Requested a general tagline | Produced creative taglines but without a specific brand identity. |
+| V2 | Generate a creative marketing tagline for an eco-friendly new water bottle brand | Added sustainability focus | Generated taglines aligned with environmental values and eco-conscious consumers. |
+| V3 | Generate a creative marketing tagline for an eco-friendly new water bottle brand. Use "people" in the tagline to create a stronger connection with readers. | Added emotional and audience-focused requirement | Produced taglines that connected the brand's mission with people, making the message more relatable and memorable. |
+
 ### 1.3 Role and Context Analysis
+
+1. Job Offer Declination Email
+Role Assignment Prompt: You are an experienced HR professional and business communication expert. Draft a polite email declining a job offer because another offer has been accepted.
+Context Setting: The candidate wants to maintain a positive relationship with the company and express interest in future opportunities.
+
+Actual Output
+Subject: Thank You for the Offer
+Dear Hiring Manager,
+Thank you very much for offering me the position of Data Analyst at your organization. I sincerely appreciate the time and effort invested by you and the team throughout the recruitment process.
+After careful consideration, I have decided to accept another opportunity that aligns more closely with my current career goals. Therefore, I must respectfully decline your offer.
+This was not an easy decision, as I was genuinely impressed by your organization, team, and culture. I remain very interested in your company and would welcome the opportunity to stay connected for any future opportunities that may arise.
+Thank you again for your understanding. I wish you and the team continued success.
+Kind regards,
+[Your Name]
+
+Impact of Role and Context:
+Assigning the role of an HR and communication expert resulted in a professional and courteous tone. The additional context ensured the email did not sound abrupt or transactional. Instead, it balanced gratitude, transparency, and future interest. This helped create a respectful message that preserves professional relationships.
+
+2. Eco-Friendly Water Bottle Brand Tagline
+Role Assignment Prompt: You are a professional copywriter specializing in sustainable consumer brands. Create a memorable marketing tagline for a new eco-friendly water bottle brand.
+Context Setting: The target audience consists of environmentally conscious consumers, and the tagline should include the word "people" to create an emotional connection with the brand.
+
+Actual Output
+Tagline Options:
+For People Who Care About Tomorrow.
+People Hydrating, Planet Thriving.
+Made for People, Designed for the Planet.
+For People Who Carry Change.
+Good for People. Better for the Planet.
+
+Recommended Tagline:
+🌱 "For People Who Care About Tomorrow."
+
+Impact of Role and Context:
+The copywriter role guided the AI toward producing concise, marketable, and brand-oriented taglines. Providing the sustainability context ensured that environmental values were reflected in the messaging. Including audience information and the requirement to use the word "people" helped create stronger emotional appeal. As a result, the taglines became more relevant, memorable, and aligned with the brand's mission.
 
 ## Part 2: Temperature & Parameter Control
 ### 2.1 Temperature Experimentation
