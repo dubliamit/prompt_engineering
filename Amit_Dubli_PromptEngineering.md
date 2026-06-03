@@ -6,28 +6,25 @@
 ## Part 1: Prompt Design & Iteration
 ### 1.1 Scenario A: Technical Explanation
 
-## Prompt 1 - Explain IoT
+### Prompt 1 - Explain IoT
 Result - IoT (Internet of Things) is a network of physical devices that are connected to the internet and can collect, share, and exchange data without requiring constant human intervention.
 
 How IoT Works
 
 An IoT system typically consists of:
+1. Devices/Sensors – Collect data from the environment (Temperature sensors, Motion detectors, Smart watches)
+2. Connectivity – Sends data through the internet using technologies such as Wi-Fi, Bluetooth, cellular networks, or Zigbee.
+3. Data Processing – Cloud servers or edge devices analyze the collected data.
+4. User Interface – Users view information and control devices through apps, websites, or dashboards.
 
-Devices/Sensors – Collect data from the environment.
-Temperature sensors
-Motion detectors
-Smart watches
-Connectivity – Sends data through the internet using technologies such as Wi-Fi, Bluetooth, cellular networks, or Zigbee.
-Data Processing – Cloud servers or edge devices analyze the collected data.
-User Interface – Users view information and control devices through apps, websites, or dashboards.
 Examples of IoT
-Smart Homes: Smart lights, thermostats, security cameras.
-Healthcare: Fitness trackers and remote patient monitoring devices.
-Agriculture: Soil moisture sensors and automated irrigation systems.
-Industry: Smart machines that monitor performance and predict maintenance needs.
-Transportation: Connected vehicles and traffic management systems.
+1. Smart Homes: Smart lights, thermostats, security cameras.
+2. Healthcare: Fitness trackers and remote patient monitoring devices.
+3. Agriculture: Soil moisture sensors and automated irrigation systems.
+4. Industry: Smart machines that monitor performance and predict maintenance needs.
+5. Transportation: Connected vehicles and traffic management systems.
+   
 Benefits of IoT
-
 ✅ Automation and convenience
 ✅ Real-time monitoring
 ✅ Improved efficiency and productivity
@@ -35,70 +32,49 @@ Benefits of IoT
 ✅ Better decision-making using data analytics
 
 Challenges of IoT
-
 ⚠️ Security and privacy risks
 ⚠️ High deployment costs in some cases
 ⚠️ Data management complexity
 ⚠️ Device compatibility and standardization issues
 
 Simple Example
-
 A smart thermostat measures room temperature, sends the data to the cloud, analyzes whether heating is needed, and automatically adjusts the temperature. You can also control it remotely using a smartphone app.
-
 In short, IoT connects everyday objects to the internet so they can sense, communicate, and act intelligently based on data.
 
-## Prompt 2 - Explain IoT as if explaining it to a 10 year old
+### Prompt 2 - Explain IoT as if explaining it to a 10 year old
 Result - Imagine you have a toy robot at home. The robot can:
-
-See if someone enters the room.
-Talk to your phone through the internet.
-Make decisions, like turning on a light when it gets dark.
-
+1. See if someone enters the room.
+2. Talk to your phone through the internet.
+3. Make decisions, like turning on a light when it gets dark.
 This is what IoT (Internet of Things) is all about.
 
 Simple Definition
-
-IoT is when everyday objects are connected to the internet so they can share information and do useful things automatically.
-
-Think of It Like This
-
-Normally, only computers and phones use the internet.
-
-With IoT, many other things can use the internet too:
-
-Smart watches
-Smart lights
-Smart refrigerators
-Security cameras
-Cars
-
+IoT is when everyday objects are connected to the internet so they can share information and do useful things automatically.Think of It Like this normally, only computers and phones use the internet. With IoT, many other things can use the internet too:
+1. Smart watches
+2. Smart lights
+3. Smart refrigerators
+4. Security cameras
+5. Cars
 These devices can "talk" to each other and send information.
 
 Example: Smart Plant Pot 🌱
 
 Imagine a flower pot that can tell when the soil is dry.
-
-A sensor checks the soil.
-It notices the plant needs water.
-It sends a message through the internet.
-Your phone shows: "Your plant is thirsty!"
+1. A sensor checks the soil.
+2. It notices the plant needs water.
+3. It sends a message through the internet.
+4. Your phone shows: "Your plant is thirsty!"
 
 That's IoT in action.
-
 Example: Smart Home 🏠
-
 When you come home:
-
-The smart door unlocks.
-The lights turn on.
-The fan starts running.
-
+1. The smart door unlocks.
+2. The lights turn on.
+3. The fan starts running.
 All because the devices are connected and sharing information.
 
 Easy Way to Remember
-
 IoT = Things + Internet + Sharing Information
-
 Just like friends chatting in a group chat, IoT devices "chat" with each other over the internet to make life easier.
 
 One-sentence explanation for a 10-year-old:
