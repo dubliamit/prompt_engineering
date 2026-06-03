@@ -1,7 +1,7 @@
 # Prompt Engineering Portfolio
-Name: Amit Dubli
-Date: 05.06.2026
-LLM Used: ChatGPT-5.5
+1. Name: Amit Dubli
+2. Date: 05.06.2026
+3. LLM Used: ChatGPT-5.5
 
 ## Part 1: Prompt Design & Iteration
 ### 1.1 Scenario A: Technical Explanation
